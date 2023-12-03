@@ -12,3 +12,6 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+Link: https://www.youtube.com/watch?v=mJ3bGvy0WAY
+Time 47.59
