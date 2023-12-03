@@ -22,23 +22,25 @@ const useFetch = (endpoint, query) => {
     try {
       const response = await axios.request(options);
       setData(response.data.data);
-      setIsLoading(false)
+      setIsLoading(false);
     } catch (error) {
       setError(error);
-      alert('There is an error');
+      alert("There is an error");
     } finally {
       setIsLoading(false);
     }
-  }
+  };
 
   useEffect(() => {
-    fetchData();
+    if (data.length === 0) {
+        fetchData();
+    }
   }, []);
 
   const refetch = () => {
     setIsLoading(true);
     fetchData();
-  }
+  };
 
   return { data, isLoading, error, refetch };
 };
