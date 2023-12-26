@@ -39,19 +39,21 @@ const JobDetails = () => {
   const displayTabContent = () => {
     switch (activeTab) {
       case "Qualifications":
-        return <Specifics
-          title='Qualifications'
-          points={data.job_highlights.Qualifications ?? ['N/A']}
-        />
+        return (
+          <Specifics
+            title="Qualifications"
+            points={data.job_highlights.Qualifications ?? ["N/A"]}
+          />
+        );
       case "About":
-        return <JobAbout
-          info={data.job_description ?? "No data provided"}
-        />
+        return <JobAbout info={data.job_description ?? "No data provided"} />;
       case "Responsibilities":
-        return <Specifics
-          title='Responsibilities'
-          points={data.job_highlights.Responsibilities ?? ['N/A']}
-        />
+        return (
+          <Specifics
+            title="Responsibilities"
+            points={data.job_highlights.Responsibilities ?? ["N/A"]}
+          />
+        );
       default:
         break;
     }
@@ -63,20 +65,20 @@ const JobDetails = () => {
         options={{
           headerStyle: {
             backgroundColor: COLORS.lightWhite,
-            headerShadowVisible: false,
-            headerBackVisible: false,
-            headerLeft: () => (
-              <ScreenHeaderBtn
-                iconUrl={icons.left}
-                dimension="60%"
-                handlePress={() => router.back()}
-              />
-            ),
-            headerRight: () => (
-              <ScreenHeaderBtn iconUrl={icons.share} dimension="60%" />
-            ),
-            headerTitle: "",
           },
+          headerShadowVisible: false,
+          headerBackVisible: false,
+          headerLeft: () => (
+            <ScreenHeaderBtn
+              iconUrl={icons.left}
+              dimension="60%"
+              handlePress={() => router.back()}
+            />
+          ),
+          headerRight: () => (
+            <ScreenHeaderBtn iconUrl={icons.share} dimension="60%" />
+          ),
+          headerTitle: "",
         }}
       />
 
@@ -122,6 +124,8 @@ const JobDetails = () => {
             // )
           }
         </ScrollView>
+
+        <JobFooter url={data.job_google_link ?? 'https://careers.google.com/jobs.results'}/>
       </>
     </SafeAreaView>
   );
