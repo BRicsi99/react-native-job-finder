@@ -1,0 +1,872 @@
+{
+    "status": "OK",
+    "request_id": "f03f00a2-2704-4345-8677-483e52936981",
+    "parameters": {
+        "query": "react developer",
+        "page": 1,
+        "num_pages": 1
+    },
+    "data": [
+        {
+            "employer_name": "Outdefine",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2lfYHT0Eykf9FUpOgsp9t1YasobKkputaaqW&s=0",
+            "employer_website": "http://www.outdefine.com",
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "M-Vm53iIwEdPsKLDAAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-outdefine-3790824050",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.695,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-outdefine-3790824050",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About Outdefine\n\nOutdefine is a web3 talent community that connects top talent with leading-edge companies and enterprises globally. Companies choose to hire Outdefine Trusted Members because their skills and readiness have been proven.\n\nWhen you accept a job as a Trusted Member, you will keep all of your pay. Contrast this with traditional hiring networks and agencies that charge membership fees and take up to 50% of your earnings as their markup. Additionally, Trusted Members get access to premier jobs, networking, and a global community powered by tokens. You can earn Outdefine tokens by working, contributing to the community, and referring friends.\n\nMore than 160 jobs are currently listed on Outdefine, with more being added regularly. Join over 15,000+ professionals from 115 countries who are building and developing their careers with Outdefine.\n\nIn order to apply for this position, first complete your profile on www.outdefine.com. We want to make sure that your application gets the most attention, so we suggest that you start the assessment process now to become a Trusted Member.\n\nTo receive direct support from career experts, join Discord.\n\nIn order to apply for this position\n\n   Signup: https://outdefine.com/r/IgnacioLoyola-0067\n\n   Book a meeting on Assessments' feature\n\nJob Overview\n• Location: Remote\n• Long term contract\n• 4+ years of experience with React.js / Javascript\n\nMandatory Skills\n• Strong vanilla JavaScript knowledge.\n• Deep knowledge of React + a state management library;\n• Excellent knowledge of JavaScript, CSS, HTML;\n• Understanding of RESTful APIs/node.js/GrapQL/ etc and popular frontend development\n\ntools, CI/CD tools\n• Experience with User Interface design and converting Figma designs into real world applications.\n\nIn order to apply for this position\n\n   Signup: https://outdefine.com/r/IgnacioLoyola-0067\n\n   Book a meeting on Assessments' feature\n\nWe want to learn more about you, so we encourage you to provide us with a brief summary of yourself and your past experience as part of the process. As soon as this is completed, you'll take a technical assessment based on your skill set, and if you pass, you'll earn 500 Outdefine tokens. We will review your application, and if you are qualified, we will invite you to a 1:1 video interview.\n\nAlready a Trusted Member of Outdefine? Then go ahead and apply directly for the job of your dreams.\n\nEqual Employment Opportunity\n\nWe are an equal opportunity employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected status. We are committed to creating a diverse and inclusive environment for all employees and applicants for employment. All qualified individuals are encouraged to apply and will be considered for employment without regard to any legally protected status.",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1703093720,
+            "job_posted_at_datetime_utc": "2023-12-20T17:35:20.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=M-Vm53iIwEdPsKLDAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-01-19T17:35:20.000Z",
+            "job_offer_expiration_timestamp": 1705685720,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 48,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "4+ years of experience with React.js / Javascript",
+                    "Strong vanilla JavaScript knowledge",
+                    "Deep knowledge of React + a state management library;",
+                    "Excellent knowledge of JavaScript, CSS, HTML;",
+                    "Understanding of RESTful APIs/node.js/GrapQL/ etc and popular frontend development",
+                    "Experience with User Interface design and converting Figma designs into real world applications"
+                ],
+                "Benefits": [
+                    "Long term contract"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Flocknote",
+            "employer_logo": null,
+            "employer_website": "http://flocknote.com",
+            "employer_company_type": null,
+            "job_publisher": "Flocknote",
+            "job_id": "qrg_d5ADhC4F5KDhAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer (Remote)",
+            "job_apply_link": "https://flocknote.breezy.hr/p/a2603f72035c-react-developer-remote",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.758,
+            "apply_options": [
+                {
+                    "publisher": "Flocknote",
+                    "apply_link": "https://flocknote.breezy.hr/p/a2603f72035c-react-developer-remote",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/web-app-developer-at-flocknote-3345361564",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/react-developer-remote-flocknote-JV_KO0,22_KE23,32.htm?jl=1008916027056",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=e9976936151225d9",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=ecdfcecd673d",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/react-native-developer-remote--345a54ad-a366-42f0-b185-2fb57df7735b",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Maukerja",
+                    "apply_link": "https://www.maukerja.my/job/15610427-react-developer-(remote)",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Recruit.net",
+                    "apply_link": "https://www.recruit.net/job/react-developer-jobs/44765C1298D3DC4D",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "We are currently looking for a React Developer to join the fast-growing product team at Flocknote. It's an important role in our company and will help shape the path forward for Flocknote.\n\nWe're a small, startup dev team with a passion for the Church and making great things. We work hard, have fun, and are always improving. Because we're a small shop, you must be self-motivated, able to manage your day-to-day schedule, and a very good communicator. You'll have the opportunity to have your hands in everything, from the data model to stylesheets, from concepts to launches, from process to implementation.\n\nIf you have a passion to help the Church, and enjoy dreaming up smart ways to solve problems and then watching your code come to life to make a real difference in the world, keep reading.\n\nYOU'LL BE:\n• Shaping the way people use Flocknote and the entire structure of our front end architecture.\n• Creating new features within Flocknote that are easy & fun to use.\n• Managing the technical aspects of Flocknote's front end. Including increasing client-side performance and accessibility.\n• Helping out the rest of the front-end team as we continue to move over to React.\n• Migrating existing features over to React.\n• Tackling front-end bugs post-push.\n• Integrating new features into a non-react front-end codebase. So experience integrating React with legacy code and understanding of using portals will be a big help here.\n\nYOU'LL NEED:\n• At least two years experience using React and a great understanding of its inner-workings and quirks.\n• To understand node, Webpack, and babel (beyond just using create-react-app).\n• To love javascript, es6+, node and all things in that world.\n• Experience and comfort developing functional components and hooks. We won't be using class-based components at all.\n• To understand reducers, context, and state and the lifecycle of react components.\n• Taste! We don't pixel-perfect mock things up, so we'll be relying on some of your great ideas to make things easy to use.\n• To be a self-starter and a go-getter.\n• To have strong interpersonal skills and be flexible, detail-oriented, professional, easy to get along with, enthusiastic and of high moral character.\n\nBONUS POINTS\n• React Native experience (yeah...we're heading down that path too!).\n• Experience managing node.js backends.\n• Experience developing cross-client email design and understanding differences in HTML layout and compatibility issues for various email clients.\n• Experience with relational data models.\n\nAll positions are full-time (remote/work-from-home) positions with salary and benefits.",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1696809600,
+            "job_posted_at_datetime_utc": "2023-10-09T00:00:00.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=qrg_d5ADhC4F5KDhAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 24,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "At least two years experience using React and a great understanding of its inner-workings and quirks",
+                    "To understand node, Webpack, and babel (beyond just using create-react-app)",
+                    "To love javascript, es6+, node and all things in that world",
+                    "Experience and comfort developing functional components and hooks",
+                    "To be a self-starter and a go-getter",
+                    "To have strong interpersonal skills and be flexible, detail-oriented, professional, easy to get along with, enthusiastic and of high moral character",
+                    "React Native experience (yeah...we're heading down that path too!)",
+                    "Experience managing node.js backends",
+                    "Experience developing cross-client email design and understanding differences in HTML layout and compatibility issues for various email clients",
+                    "Experience with relational data models"
+                ],
+                "Responsibilities": [
+                    "You'll have the opportunity to have your hands in everything, from the data model to stylesheets, from concepts to launches, from process to implementation",
+                    "If you have a passion to help the Church, and enjoy dreaming up smart ways to solve problems and then watching your code come to life to make a real difference in the world, keep reading",
+                    "Shaping the way people use Flocknote and the entire structure of our front end architecture",
+                    "Creating new features within Flocknote that are easy & fun to use",
+                    "Managing the technical aspects of Flocknote's front end",
+                    "Including increasing client-side performance and accessibility",
+                    "Helping out the rest of the front-end team as we continue to move over to React",
+                    "Migrating existing features over to React",
+                    "Tackling front-end bugs post-push",
+                    "So experience integrating React with legacy code and understanding of using portals will be a big help here"
+                ],
+                "Benefits": [
+                    "All positions are full-time (remote/work-from-home) positions with salary and benefits"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Jobot",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUouVAXoMcrG2c-MnVLckRe0UDB-601EGP197Z&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "9LfjEzfAax9EIPVqAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-jobot-3791329903",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6471,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-jobot-3791329903",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dofactory.com",
+                    "apply_link": "https://www.dofactory.com/jobs/1161/react-developer?utm_content=joblist",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/46aa8b9d-cce0-491c-beda-1157cb0274b2",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "CareerBuilder",
+                    "apply_link": "https://www.careerbuilder.com/job/J3R6BY6C4Z5J24HVJZ8",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/20231217-c565a3fc99b03b0d6b1db95b876b4597",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Oklahoma City - Geebo",
+                    "apply_link": "https://oklahomacity-ok.geebo.com/jobs-online/view/id/1339399101-react-developer-/",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-1275-20231224-34c1547ab94da9f5454bb464f366315c",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Learn4Good",
+                    "apply_link": "https://www.learn4good.com/jobs/oklahoma-city/oklahoma/software_development/2787981115/e/",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Want to learn more about this role and Jobot? Click our Jobot logo and follow our LinkedIn page!\n\nJob details\n\nThis Jobot Job is hosted by Dan Dungy\n\nAre you a fit? Easy Apply now by clicking the \"Easy Apply\" button and sending us your resume.\n\nSalary $90,000 - $110,000 per year\n\nA Bit About Us\n\nWe're a very large privately held bank.\n\nWhy join us?\n\nWe have a great culture on our team and we're building exciting products in our industry.\n\nJob Details\n\nJob Details\n\nWe are seeking a talented and experienced React Developer to join our dynamic team. This is a fantastic opportunity to contribute to the development of our innovative banking solutions that are transforming the industry. The successful candidate will be responsible for creating and implementing visually appealing, user-friendly interfaces that will enhance our customers’ experience. As a React Developer, you will work closely with cross-functional teams to develop and upgrade our mortgage systems. The role is ideal for someone who thrives in a fast-paced, challenging environment and has a passion for technology and its ability to drive efficiency and effectiveness.\n\nResponsibilities\n• Develop new user-facing features using React Native.\n• Build reusable components and front-end libraries for future use.\n• Translate designs and wireframes into high-quality code.\n• Optimize components for maximum performance across a vast array of web-capable devices and browsers.\n• Collaborate with the product team to design innovative solutions to meet market needs.\n• Work closely with back-end developers to integrate user-facing elements with server-side logic.\n• Participate in code reviews to maintain a high-quality code base.\n• Test software to ensure responsiveness and efficiency.\n• Troubleshoot, debug and upgrade software.\n• Create security and data protection settings.\n\nQualifications\n• Bachelor's degree in Computer Science, Information Technology, or a related field.\n• 3+ years of experience in React Native and other popular frameworks.\n• Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.\n• Thorough understanding of React.js and its core principles.\n• Experience with popular React.js workflows (such as Flux or Redux).\n• Knowledge of .NET and MVC frameworks.\n• Proficiency in TypeScript.\n• Familiarity with modern front-end build pipelines and tools.\n• Experience with common front-end development tools such as Babel, Webpack, NPM, etc.\n• Ability to understand business requirements and translate them into technical requirements.\n• A knack for benchmarking and optimization.\n• Familiarity with code versioning tools such as Git, SVN, and Mercurial.\n• Strong problem-solving skills, attention to detail, and a team player.\n• Excellent communication skills, both verbal and written.\n\nInterested in hearing more? Easy Apply now by clicking the \"Easy Apply\" button.\n\nWant to learn more about this role and Jobot?\n\nClick our Jobot logo and follow our LinkedIn page!",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1703414259,
+            "job_posted_at_datetime_utc": "2023-12-24T10:37:39.000Z",
+            "job_city": "Oklahoma City",
+            "job_state": "OK",
+            "job_country": "US",
+            "job_latitude": 35.46756,
+            "job_longitude": -97.516426,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=9LfjEzfAax9EIPVqAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-01-23T10:37:39.000Z",
+            "job_offer_expiration_timestamp": 1706006259,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 36,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 90000,
+            "job_max_salary": 110000,
+            "job_salary_currency": "USD",
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "The role is ideal for someone who thrives in a fast-paced, challenging environment and has a passion for technology and its ability to drive efficiency and effectiveness",
+                    "Bachelor's degree in Computer Science, Information Technology, or a related field",
+                    "3+ years of experience in React Native and other popular frameworks",
+                    "Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
+                    "Thorough understanding of React.js and its core principles",
+                    "Experience with popular React.js workflows (such as Flux or Redux)",
+                    "Knowledge of .NET and MVC frameworks",
+                    "Proficiency in TypeScript",
+                    "Familiarity with modern front-end build pipelines and tools",
+                    "Experience with common front-end development tools such as Babel, Webpack, NPM, etc",
+                    "Ability to understand business requirements and translate them into technical requirements",
+                    "A knack for benchmarking and optimization",
+                    "Familiarity with code versioning tools such as Git, SVN, and Mercurial",
+                    "Strong problem-solving skills, attention to detail, and a team player",
+                    "Excellent communication skills, both verbal and written"
+                ],
+                "Responsibilities": [
+                    "The successful candidate will be responsible for creating and implementing visually appealing, user-friendly interfaces that will enhance our customers’ experience",
+                    "As a React Developer, you will work closely with cross-functional teams to develop and upgrade our mortgage systems",
+                    "Develop new user-facing features using React Native",
+                    "Build reusable components and front-end libraries for future use",
+                    "Translate designs and wireframes into high-quality code",
+                    "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+                    "Collaborate with the product team to design innovative solutions to meet market needs",
+                    "Work closely with back-end developers to integrate user-facing elements with server-side logic",
+                    "Participate in code reviews to maintain a high-quality code base",
+                    "Test software to ensure responsiveness and efficiency",
+                    "Troubleshoot, debug and upgrade software",
+                    "Create security and data protection settings"
+                ],
+                "Benefits": [
+                    "Salary $90,000 - $110,000 per year"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "Upwork",
+            "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+            "employer_website": "http://www.elance.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Upwork",
+            "job_id": "bzEG3kqqYqFXi2jgAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Ruby and React developer needed - Contract to Hire",
+            "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Ruby-and-React-developer-needed_~01dd19feadc04c77e6/",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.6859,
+            "apply_options": [
+                {
+                    "publisher": "Upwork",
+                    "apply_link": "https://www.upwork.com/freelance-jobs/apply/Ruby-and-React-developer-needed_~01dd19feadc04c77e6/",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "We need a Ruby on Rail developer for ongoing project. Reactjs skills are plus. This is a fulltime job. We need someone who can audit the existing codebase and write new code to implement features.",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1703511542,
+            "job_posted_at_datetime_utc": "2023-12-25T13:39:02.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=bzEG3kqqYqFXi2jgAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": false,
+                "experience_preferred": false
+            },
+            "job_required_skills": [
+                "React",
+                "Ruby",
+                "API",
+                "JavaScript",
+                "CSS",
+                "Web Development"
+            ],
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 15,
+            "job_max_salary": 25,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Reactjs skills are plus"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541511",
+            "job_naics_name": "Custom Computer Programming Services"
+        },
+        {
+            "employer_name": "Upwork",
+            "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+            "employer_website": "http://www.elance.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Upwork",
+            "job_id": "iSlmqGcfeQtjOTRvAAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "Full Stack Python / Flask and React developer - Contract to Hire",
+            "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Full-Stack-Python-Flask-and-React-developer_~01ead9405cf21a560b/",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.6859,
+            "apply_options": [
+                {
+                    "publisher": "Upwork",
+                    "apply_link": "https://www.upwork.com/freelance-jobs/apply/Full-Stack-Python-Flask-and-React-developer_~01ead9405cf21a560b/",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "We are looking for motivated and experienced developers to join our growing web app development team.\n\nThe candidate should have experience with the following\n\n- Python / Flask\n\n- ReactJS\n\n- Working on dev teams collaboratively\n\n- Strong work ethic\n\n- Taking solutions to production\n\n~20+ hours per week.\n\nPlease attach a copy of your resume and a link to your portfolio\n\nLooking forward to your proposal!",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1703508724,
+            "job_posted_at_datetime_utc": "2023-12-25T12:52:04.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=iSlmqGcfeQtjOTRvAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": [
+                "React",
+                "Flask",
+                "Git",
+                "Python",
+                "Full-Stack Development",
+                "Jira"
+            ],
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 12,
+            "job_max_salary": 25,
+            "job_salary_currency": "USD",
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "The candidate should have experience with the following",
+                    "Python / Flask",
+                    "ReactJS",
+                    "Working on dev teams collaboratively",
+                    "Strong work ethic",
+                    "Taking solutions to production"
+                ],
+                "Benefits": [
+                    "~20+ hours per week"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541511",
+            "job_naics_name": "Custom Computer Programming Services"
+        },
+        {
+            "employer_name": "The Select Group",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CveJlvLrtC5OL24MFp7R1FQgr8Dk0PL85vx2&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "LinkedIn",
+            "job_id": "W5PBfIdXgAna1YdmAAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-the-select-group-3786123891",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.6781,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-the-select-group-3786123891",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "REACT DEVELOPER - REMOTE\n\nLooking for a React Developer to assist one of The Select Group's clients to support their supply chain data projects for UI development to give useful insights on the data! This position will be sitting fully remote but working on Pacific Time. If the below sounds like a good fit, please apply!\n\nREACT DEVELOPER REQUIREMENTS:\n• Experience with React development\n• Full stack experience with Java, Spring Boot, APIs and MicroServices\n• Big Query Data\n• Cloud environment experience in Azure and/or GCP\n\nREACT DEVELOPER RESPONSIBILITIES:\n• They are implementing everything into GCP and moving away from Power BI for reporting.\n• Everything in this project is new so the data will need to be used in a new way as well\n• Will be working with a BA, Designer, and another Developer on the team to build out this project",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1703197973,
+            "job_posted_at_datetime_utc": "2023-12-21T22:32:53.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=W5PBfIdXgAna1YdmAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-01-20T22:32:52.000Z",
+            "job_offer_expiration_timestamp": 1705789972,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Experience with React development",
+                    "Full stack experience with Java, Spring Boot, APIs and MicroServices",
+                    "Big Query Data",
+                    "Cloud environment experience in Azure and/or GCP"
+                ],
+                "Responsibilities": [
+                    "Looking for a React Developer to assist one of The Select Group's clients to support their supply chain data projects for UI development to give useful insights on the data!",
+                    "This position will be sitting fully remote but working on Pacific Time",
+                    "They are implementing everything into GCP and moving away from Power BI for reporting",
+                    "Everything in this project is new so the data will need to be used in a new way as well",
+                    "Will be working with a BA, Designer, and another Developer on the team to build out this project"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "VirtualVocations",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpvo73b_jwJT1H_9agLsMzWD5zxqKA1nAo10o&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Talent.com",
+            "job_id": "yEHfw4Z0veCDYWzSAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React developer",
+            "job_apply_link": "https://www.talent.com/view?id=84156acf8180",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.4981,
+            "apply_options": [
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=84156acf8180",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Last updated : 2023-12-25",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1703462400,
+            "job_posted_at_datetime_utc": "2023-12-25T00:00:00.000Z",
+            "job_city": "Kansas City",
+            "job_state": "KS",
+            "job_country": "US",
+            "job_latitude": 39.115532,
+            "job_longitude": -94.626785,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=yEHfw4Z0veCDYWzSAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-03-26T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1711411200,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": false,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_occupational_categories": [
+                "15-1252.00"
+            ]
+        },
+        {
+            "employer_name": "Upwork",
+            "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+            "employer_website": "http://www.elance.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "Upwork",
+            "job_id": "Ykz5tEqiXj8mKVz3AAAAAA==",
+            "job_employment_type": "CONTRACTOR",
+            "job_title": "React Developer for Long Term",
+            "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer-for-Long-Term_~01ba722fc2baec46de/",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.6859,
+            "apply_options": [
+                {
+                    "publisher": "Upwork",
+                    "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer-for-Long-Term_~01ba722fc2baec46de/",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Hello talented developers!\n\nWe are in search of a skilled React developer to bring a dynamic project to life. The core of this project involves building a web application with a clear role-based access system, including a Super admin, Admins, and Users.\n\nKey Responsibilities:\n\nDevelop a Role-Based Web Application:\n\nSuper Admin Role: Capability to create admin accounts.\n\nAdmin Role: Ability to write and manage posts.\n\nUser Role: Permission to view posts and make comments.\n\nMobile Application Development:\n\nConvert the web application into a fully-functional mobile app.\n\nEnsure compatibility with both Android and iOS platforms.\n\nTechnical Requirements:\n\nFront End: React JS\n\nBack End: TypeScript\n\nDatabase: SQL Server\n\nProject Deliverables:\n\nA clear timeline and a reasonable fixed price for the complete development.\n\nRegular updates and milestones throughout the project duration.\n\nPrevious Work Experience:\n\nPlease share URLs or examples of similar projects you've worked on, especially those involving role-based systems.\n\nApplication Process:\n\nInterested candidates are requested to send their proposals with a brief introduction, estimated timeline, fixed price quote, and examples of similar past work. We are looking for someone who can commit to quality and timely delivery.\n\nWe're excited to hear from you and look forward to seeing your innovative solutions!",
+            "job_is_remote": true,
+            "job_posted_at_timestamp": 1703349571,
+            "job_posted_at_datetime_utc": "2023-12-23T16:39:31.000Z",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 37.09024,
+            "job_longitude": -95.71289,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=Ykz5tEqiXj8mKVz3AAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": [
+                "React",
+                "TypeScript"
+            ],
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Responsibilities": [
+                    "Admin Role: Ability to write and manage posts",
+                    "User Role: Permission to view posts and make comments",
+                    "Regular updates and milestones throughout the project duration"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_naics_code": "541511",
+            "job_naics_name": "Custom Computer Programming Services"
+        },
+        {
+            "employer_name": "Communities.Tech",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Indeed",
+            "job_id": "ZxNozBsBPCsqYtZYAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React Developer",
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=14543f7071e06ac3",
+            "job_apply_is_direct": true,
+            "job_apply_quality_score": 0.6345,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=14543f7071e06ac3",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/XlM3k3FX3Q2N8bQ20Im-ZRDEBXev8nb5rn2wWK9PrbqR2iIi9a5prQ",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Salary.com",
+                    "apply_link": "https://www.salary.com/job/communities-tech/react-developer/j202312230233364650910",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About the job\nWe are seeking a Front End Software Developer in Amarillo, TX to build and scale a variety of Web and Mobile Products from the very beginning. We are designing, building and implementing a new software solution to fill a gap in our industry.\n\nAs the Front End Developer, you will be part of an agile team with Front End and Backend Developers, Product team, Database team and QA engineers. The role also requires a desire to learn and apply new skills. You should be skilled at building web-based software or mobile apps and excel at learning new languages and frameworks.\n\nHelpful skills\nNode.JS, REST, React Native, MaterialUI, PostreSQL, OAuth/JWT, NGINX, ElasticSearch, Git, JIRA\n\nKey Responsibilities include:\n• Develop fully functional dynamic application with high quality code\n• Design, build, scale, and enhance software products, apps, and platforms based on client needs and business requirements\n• Collaborate with designers, and product teams to propose solutions to meet the goals of clients and their products\n• Define, refine, and document Best Practices that enable excellent team performance\n\nWe’re looking for someone who:\n• This job is located at our Corporate Office in Amarillo, TX.\n• Has 2+ years of React Experience\n• Has experience building and scaling software products\n• Has prior working experience in Agile Scrum development and methodology\n\nWhat we offer:\n• In-house Gym Membership\n• Company laptop\n• Full medical, dental, and vision insurance\n• 401k\n• Paid vacation\n• Opportunity for advancement\n\nJob Type: Full-time\n\nPay: $50,000.00 - $80,000.00 per year\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Health insurance\n• Paid time off\n• Vision insurance\n\nCompensation package:\n• Weekly pay\n\nExperience level:\n• 2 years\n• 3 years\n• 4 years\n• 5 years\n• 6 years\n• 7 years\n\nSchedule:\n• Monday to Friday\n\nApplication Question(s):\n• Do you live in Amarillo or willing to relocate?\n• Do you work within React on a daily basis or have in the past?\n\nExperience:\n• React: 1 year (Required)\n\nAbility to Relocate:\n• Oklahoma City, OK: Relocate before starting work (Required)\n\nWork Location: In person",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1703105082,
+            "job_posted_at_datetime_utc": "2023-12-20T20:44:42.000Z",
+            "job_city": "Oklahoma City",
+            "job_state": "OK",
+            "job_country": "US",
+            "job_latitude": 35.46756,
+            "job_longitude": -97.516426,
+            "job_benefits": [
+                "dental_coverage",
+                "paid_time_off",
+                "retirement_savings",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=ZxNozBsBPCsqYtZYAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": null,
+            "job_offer_expiration_timestamp": null,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": 24,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": 50000,
+            "job_max_salary": 80000,
+            "job_salary_currency": "USD",
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "The role also requires a desire to learn and apply new skills",
+                    "You should be skilled at building web-based software or mobile apps and excel at learning new languages and frameworks",
+                    "Has 2+ years of React Experience",
+                    "Has experience building and scaling software products",
+                    "Has prior working experience in Agile Scrum development and methodology",
+                    "3 years",
+                    "4 years",
+                    "5 years",
+                    "6 years",
+                    "7 years",
+                    "React: 1 year (Required)",
+                    "Oklahoma City, OK: Relocate before starting work (Required)"
+                ],
+                "Responsibilities": [
+                    "As the Front End Developer, you will be part of an agile team with Front End and Backend Developers, Product team, Database team and QA engineers",
+                    "Develop fully functional dynamic application with high quality code",
+                    "Design, build, scale, and enhance software products, apps, and platforms based on client needs and business requirements",
+                    "Collaborate with designers, and product teams to propose solutions to meet the goals of clients and their products",
+                    "Define, refine, and document Best Practices that enable excellent team performance"
+                ],
+                "Benefits": [
+                    "In-house Gym Membership",
+                    "Company laptop",
+                    "Full medical, dental, and vision insurance",
+                    "401k",
+                    "Paid vacation",
+                    "Opportunity for advancement",
+                    "Pay: $50,000.00 - $80,000.00 per year",
+                    "401(k)",
+                    "Health insurance",
+                    "Paid time off",
+                    "Compensation package:",
+                    "Weekly pay"
+                ]
+            },
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "employer_name": "VirtualVocations",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpvo73b_jwJT1H_9agLsMzWD5zxqKA1nAo10o&s=0",
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "Talent.com",
+            "job_id": "t517LLdTx_6jKN7BAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "React developer",
+            "job_apply_link": "https://www.talent.com/view?id=c3b5249cff01",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.4981,
+            "apply_options": [
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=c3b5249cff01",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "NetExperience with React development and data modelsFamiliarity with Azure cloud platform is a plus\n\nLast updated : 2023-12-25",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1703462400,
+            "job_posted_at_datetime_utc": "2023-12-25T00:00:00.000Z",
+            "job_city": "Kansas City",
+            "job_state": "KS",
+            "job_country": "US",
+            "job_latitude": 39.115532,
+            "job_longitude": -94.626785,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=t517LLdTx_6jKN7BAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2024-03-26T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1711411200,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": true,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3",
+            "job_occupational_categories": [
+                "15-1252.00"
+            ]
+        }
+    ]
+}

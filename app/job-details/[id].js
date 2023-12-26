@@ -19,6 +19,7 @@ import {
 } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import useFetch from "../../hook/useFetch";
+import * as jsonData from "../../data.json"
 
 const tabs = ["About", "Qualifications", "Responsibilities"];
 
@@ -26,12 +27,14 @@ const JobDetails = () => {
   const params = useSearchParams();
   const router = useRouter();
 
-  const { data, isLoading, error, refetch } = useFetch("/jobs-details", {
-    job_id: params.id,
-  });
+  // const { data, isLoading, error, refetch } = useFetch("/jobs-details", {
+  //   job_id: params.id,
+  // });
+
+  const data = jsonData.data.find(item => item.job_id == params.id)
 
   const [refreshing, setRefreshing] = useState(false);
-  const [astiveTab, setActiveTab] = useState(tabs[0]);
+  const [activeTab, setActiveTab] = useState(tabs[0]);
   const onRefresh = () => {};
 
   return (
@@ -64,17 +67,19 @@ const JobDetails = () => {
             <RefreshControl refreshing={refreshing} onRefresh={onRefresh} />
           }
         >
-          {isLoading ? (
-            <ActivityIndicator size="large" color={COLORS.primary} />
-          ) : error ? (
-            <Text style={{ color: COLORS.error, textAlign: "center" }}>
-              Something went wrong
-            </Text>
-          ) : data.length === 0 ? (
-            <Text style={{ color: COLORS.error, textAlign: "center" }}>
-              No data
-            </Text>
-          ) : (
+          {
+          // isLoading ? (
+          //   <ActivityIndicator size="large" color={COLORS.primary} />
+          // ) : error ? (
+          //   <Text style={{ color: COLORS.error, textAlign: "center" }}>
+          //     Something went wrong
+          //   </Text>
+          // ) : 
+          // data.length === 0 ? (
+          //   <Text style={{ color: COLORS.error, textAlign: "center" }}>
+          //     No data
+          //   </Text>
+          // ) : (
             <View
               style={{
                 padding: SIZES.medium,
@@ -82,14 +87,15 @@ const JobDetails = () => {
               }}
             >
               <Company
-                companyLogo={data[0].company_logo}
-                jobTitle={data[0].job_title}
-                companyName={data[0].employer_name}
-                Location={data[0].job_country}
+                companyLogo={data.company_logo} //{data[0].company_logo}
+                jobTitle={data.job_title} //{data[0].job_title}
+                companyName={data.employer_name} //{data[0].employer_name}
+                Location={data.job_country} //{data[0].job_country}
               />
-              <JobTabs />
+              <JobTabs tabs={tabs} activeTab={activeTab} setActiveTab={setActiveTab}/>
             </View>
-          )}
+          // )
+          }
         </ScrollView>
       </>
     </SafeAreaView>
