@@ -20,29 +20,23 @@ import {
 import { COLORS, icons, SIZES } from "../../constants";
 import useFetch from "../../hook/useFetch";
 import * as jsonData from "../../data.json";
-import { useLocalSearchParams } from 'expo-router';
 
 const tabs = ["About", "Qualifications", "Responsibilities"];
 
-export async function generateStaticParams() {
-  const posts = await getPosts();
-  return posts.map(post => ({ id: post.id }));
-}
-
 const JobDetails = () => {
   const params = useSearchParams();
-  const { id } = useLocalSearchParams();
   const router = useRouter();
 
   // const { data, isLoading, error, refetch } = useFetch("/jobs-details", {
   //   job_id: params.id,
   // });
 
-  const data = jsonData.data.find((item) => item.job_id == id);
+  const data = jsonData.data.find((item) => item.job_id == params.id);
 
   const [refreshing, setRefreshing] = useState(false);
   const [activeTab, setActiveTab] = useState(tabs[0]);
-  // const onRefresh = useCallback(() =>{
+  const onRefresh = () => {};
+  // useCallback(() =>{
   //   setRefreshing(true);
   //   refetch();
   //   setRefreshing(false);
